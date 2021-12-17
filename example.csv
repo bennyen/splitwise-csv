@@ -1,0 +1,3 @@
+date,description,cost,user1_id,user1_paid_share,user1_owed_share,user2_id,user2_paid_share,user2_owed_share
+2020-01-01,bad stuff,0.11,7886689,2.11,0.02,974356,0,0.09
+2020-01-01,more good stuff,0.11,7886689,0.11,0.02,974356,0,0.09
